@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+media/
+PyEtherpadLite
+
+# SQLite database files
+
+*.sqlite3
+*.swn
+*.swo
+*.swp
+*.swm
+
+src/
+.vscode/
+*.pyc
+
+.DS_Store/
+node_modules/
