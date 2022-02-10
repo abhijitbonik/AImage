@@ -1,4 +1,4 @@
-Django==2.2.9
+Django==2.2.27
 mysqlclient==1.4.6
 python-decouple==3.3
 Pillow==6.2.1
